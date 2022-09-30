@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Crystal Note.png">
+<SubTexture name="B0000" x="150" y="0" width="150" height="194" frameX="0" frameY="0" frameWidth="150" frameHeight="194" />
+<SubTexture name="A0000" x="300" y="0" width="194" height="150" frameX="0" frameY="0" frameWidth="194" frameHeight="150" />
+<SubTexture name="C0000" x="0" y="0" width="150" height="194" frameX="0" frameY="0" frameWidth="150" frameHeight="194" />
+<SubTexture name="D0000" x="0" y="194" width="194" height="150" frameX="0" frameY="0" frameWidth="194" frameHeight="150" />
+<SubTexture name="E0000" x="150" y="0" width="150" height="194" frameX="0" frameY="0" frameWidth="150" frameHeight="194" />
+<SubTexture name="F0000" x="300" y="0" width="194" height="150" frameX="0" frameY="0" frameWidth="194" frameHeight="150" />
+<SubTexture name="G0000" x="150" y="0" width="150" height="194" frameX="0" frameY="0" frameWidth="150" frameHeight="194" />
+<SubTexture name="H0000" x="0" y="0" width="150" height="194" frameX="0" frameY="0" frameWidth="150" frameHeight="194" />
+<SubTexture name="I0000" x="0" y="194" width="194" height="150" frameX="0" frameY="0" frameWidth="194" frameHeight="150" />
+</TextureAtlas>

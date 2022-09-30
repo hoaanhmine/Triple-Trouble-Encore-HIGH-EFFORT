@@ -1,0 +1,31 @@
+{
+	"songs": [
+		[
+			"triple trouble",
+			"sonic",
+			[
+				166,
+				0,
+				195
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"difficulties": "encore",
+    "weekBackground": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "The three of them",
+	"weekName": "triple trouble consoku",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
